@@ -25,3 +25,6 @@ elif num > 1:
         print(num, "is a prime number")
         
 #Rayane et Snelson étape 6 changement
+
+
+# CE CODE EST DANS UNE NOUVELLE BRANCHE !!!!!  
